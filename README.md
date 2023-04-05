@@ -1,4 +1,4 @@
-# Shift-or-Algorithm
+# Shift-or-Algorithm Arama algoritması
 
 Shift Or algoritması, verilen bir kalıbın bir dizgede olup olmadığını kontrol etmek için bit düzeyinde teknikler kullanan bir algoritmadır. Kalıp uzunluğu makinenin bellek kelime boyutundan daha küçükse verimlidir.
 
